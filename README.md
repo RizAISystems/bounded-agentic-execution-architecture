@@ -1,4 +1,5 @@
 # Bounded Agentic Execution Architecture
+[![Bounded Execution Tests](https://github.com/RizAISystems/bounded-agentic-execution-architecture/actions/workflows/tests.yml/badge.svg)](https://github.com/RizAISystems/bounded-agentic-execution-architecture/actions/workflows/tests.yml)
 
 A reference architecture for AI systems that can reason, select tools and execute actions while remaining inside explicit authority, validation and observability boundaries.
 
