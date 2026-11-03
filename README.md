@@ -1,6 +1,10 @@
 # Bounded Agentic Execution Architecture
 [![Bounded Execution Tests](https://github.com/RizAISystems/bounded-agentic-execution-architecture/actions/workflows/tests.yml/badge.svg)](https://github.com/RizAISystems/bounded-agentic-execution-architecture/actions/workflows/tests.yml)
 
+**[Technical overview](https://riz-ai.rz07860.chatgpt.site/technology-opportunities/governed-agentic-execution/)** · **[Engineering portfolio](https://riz-ai.rz07860.chatgpt.site/)**
+
+**Recorded evidence:** 4/4 focused synthetic reference tests passed at the documented milestone. This public architectural reference is not an enterprise production deployment.
+
 A reference architecture for AI systems that can reason, select tools and execute actions while remaining inside explicit authority, validation and observability boundaries.
 
 The objective is not maximum autonomy.
@@ -270,7 +274,7 @@ This repository will expand the reference architecture with:
 ## Author
 
 **Riz Datoo**  
-Intelligent Autonomous Systems Architect
+Intelligent Autonomous Systems & Innovation Architect | AI Systems Engineer | Inventor of Original Technologies
 
 [Engineering Portfolio](https://riz-ai.rz07860.chatgpt.site/)  
 [LinkedIn](https://www.linkedin.com/in/rizrz)  
