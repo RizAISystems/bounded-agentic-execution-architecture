@@ -269,7 +269,7 @@ This repository will expand the reference architecture with:
 - evidence schemas
 - failure and recovery examples
 - test scenarios
-- a small working reference implementation
+- additional synthetic tool scenarios and failure-recovery cases for the existing executable reference
 
 ## Author
 
